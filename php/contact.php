@@ -6,7 +6,7 @@
  * ------------------------------------
  */
  
-$to    = "test@surjithctly.in"; // <--- Your email ID here
+$to    = "info@sunride.net"; // <--- Your email ID here
 $subject_txt = "$name sent you a message via Event Website"; // <--- Contact for Subject here.
 
 /*

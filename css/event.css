@@ -78,7 +78,7 @@ h6 {
 }
 
 h1 {
-    font-size: 55px;
+    font-size: 68px;
 }
 
 h2 {
@@ -708,7 +708,7 @@ p,
  --------------- */
 
 .header.parallax-bg {
-    background: url('../images/parallax-bg.jpg') no-repeat center top;
+    background: url('../images/new/highway-night.jpg') no-repeat center top;
     background-size: cover;
     background-attachment: fixed;
 }
